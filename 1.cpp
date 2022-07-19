@@ -12,3 +12,6 @@ int main()
     cout << "Square root of " << number << " is " << root;
     return 0;
 }
+
+// Square Root Program in C++
+// Written By - Prabhnoor Maingi
