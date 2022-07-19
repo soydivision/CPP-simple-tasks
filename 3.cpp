@@ -2,6 +2,7 @@
 #include <algorithm>
 using namespace std;
 // Task is vague and ambiguos, so is the solution.
+// C++ program to find the smallest element missing in a sorted array
 int smallest_missing(int arr[], int start, int end)
 {
 	if (start > end)
