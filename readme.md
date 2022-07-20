@@ -1,12 +1,12 @@
 Found on https://www.studymite.com/cpp/examples:
-1    Square Root Program in C++
-2    C++ program to find cube root of a number
-3    Program to find the smallest element missing in a sorted array in C++
-4    Program to sort a given unsorted array in wave form in C++
-5    Program to find the most occurring element in an array of integers in C++
-6    Program to find all elements in array of integers which have at-least two greater elements in C++
-7    Program to find the first repeating element in an array of integers in C++
-8    C++ program to separate even and odd numbers from an array
+1    Square Root Program in C++  
+2    C++ program to find cube root of a number  
+3    Program to find the smallest element missing in a sorted array in C++  
+4    Program to sort a given unsorted array in wave form in C++  
+5    Program to find the most occurring element in an array of integers in C++  
+6    Program to find all elements in array of integers which have at-least two greater elements in C++  
+7    Program to find the first repeating element in an array of integers in C++  
+8    C++ program to separate even and odd numbers from an array  
 9    Program to display the cube of the number upto given integer in C++
 10    Program to calculate the series (1) + (1+2) + (1+2+3) + … + (1+2+3+4+…+n) in C++
 11    Program to find power of any number in C++
